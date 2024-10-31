@@ -38,6 +38,7 @@ defects early and reduces the cost and time of fixing them.
 - when start testing and prep
 - test piramide
 - Exploratory testing rounds
+<br/>
 
 
 
@@ -53,12 +54,19 @@ defects early and reduces the cost and time of fixing them.
     - General importance and priority, 
     - Available bugs
     - Rule of the thumb 20%
+<br/>
+
 
 
 ### Databases - Intermediate
-- Simple queries
-- Joins
 - Relational vs sql db
+- Types of databases
+- Joints
+- Views
+- Builtin functions
+- Sum
+- Group
+<br/>
 
 
 
@@ -77,6 +85,7 @@ defects early and reduces the cost and time of fixing them.
 - Release tags
 - Triggers
 - Branch organization
+<br/>
 
 
 
@@ -85,6 +94,7 @@ defects early and reduces the cost and time of fixing them.
 - Jenkins configurations - scripts, parametrization, envinromnents
 - Envinronments used on project
 - Jobe execution, frequency, which test suites
+<br/>
 
 
 
@@ -99,7 +109,7 @@ defects early and reduces the cost and time of fixing them.
 - conftest.py
 - Fixtures
 - addoptions
-
+<br/>
 
 
 
@@ -107,9 +117,13 @@ defects early and reduces the cost and time of fixing them.
 - clean code
 - skills to write clean, efficient code for testing that aligns with these objectives.
 This includes proper naming conventions, indentation, and commenting. It helps make the code readable and maintainable.
+<br/>
+
 
 
 ### Testing Fundamentals - Advanced
+
+
 
 
 ### Python.Core - Novice
@@ -144,12 +158,17 @@ This includes proper naming conventions, indentation, and commenting. It helps m
     - standard
     - protected
     - private
+<br/>
+
 
 
 
 ### Web UI Test automation - Intermediate
 - exceptions
 - asserts
+<br/>
+
+
 
 
 ### API Test Automation - Novice
