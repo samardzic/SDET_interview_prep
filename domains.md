@@ -173,5 +173,12 @@ This includes proper naming conventions, indentation, and commenting. It helps m
 
 ### API Test Automation - Novice
 
+- Api performance:
+    - Pagination
+    - Async logging
+    - Cashing Redis
+    - Payload compression
+    - DB connection pool - avoid opening and closing connection all the time
+
 
 ### Python Test Automation Frameworks - Intermediate
